@@ -1,1 +1,7 @@
 HAL 72
+
+Tracking HAL 41 => tipe data
+
+Tracking HAL 114 => type data struct
+
+Tracking HAL 177 => Chanell Timeout
